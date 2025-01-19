@@ -1,2 +1,2 @@
-# ships_ahoy
+# Pirate Battleship
 Pirate Attack!
